@@ -13,5 +13,5 @@ The statement that Scikit-Learn has the power to visualize data without a Graphv
 ...
 
 *Reflection ~ 02/11*  
-This is a dataset I found with characteristics related to depression: https://www.kaggle.com/arashnic/the-depression-dataset
+This is a dataset I found with characteristics related to depression: https://www.kaggle.com/arashnic/the-depression-dataset  
 It could be used to detect depression states in people based on patterns between these characteristics. I would likely use a convolutional neural network to develop this. A CNN could look at groups of characteristics related to depression, and then combine the results from the groups to output a final answer of which depression state was detected.
