@@ -10,8 +10,12 @@ The difference between supervised and unsupervised learning is that in unsupervi
 The statement that Scikit-Learn has the power to visualize data without a Graphviz, Pandas, or other data analysis libraries is false because Scikit-Learn has to use these libraries in order to create visualizations for data. It works with these different libraries and implements code from them in order to create data visuals, without them, the visuals wouldn't work.
 
 *Reflection ~ 02/10*  
-...
+Tensors are basically mathematical representations of physical objects that can be characterized by magnitude and multiple directions (such as in the x, y, and z planes). In Machine Learning, tensors are used to represent an array of numbers in 3-dimensional space.  
+In the interactive models in the TensorFlow tutorial, I noticed that many of the components had to be created first as placeholders, and then were later filled and adjusted by the specific data we were working with.
 
 *Reflection ~ 02/11*  
 This is a dataset I found with characteristics related to depression: https://www.kaggle.com/arashnic/the-depression-dataset  
 It could be used to detect depression states in people based on patterns between these characteristics. I would likely use a convolutional neural network to develop this. A CNN could look at groups of characteristics related to depression, and then combine the results from the groups to output a final answer of which depression state was detected.
+
+*Reflection ~ 02/12*  
+...
