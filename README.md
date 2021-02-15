@@ -18,4 +18,4 @@ This is a dataset I found with characteristics related to depression: https://ww
 It could be used to detect depression states in people based on patterns between these characteristics. I would likely use a convolutional neural network to develop this. A CNN could look at groups of characteristics related to depression, and then combine the results from the groups to output a final answer of which depression state was detected.
 
 *Reflection ~ 02/12*  
-...
+Tried this model, worked fine. Didn't create my own (not quite sure how to do that...), just played around with this one.
