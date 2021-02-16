@@ -21,4 +21,4 @@ It could be used to detect depression states in people based on patterns between
 Tried this model, worked fine. Didn't create my own (not quite sure how to do that...), just played around with this one. I'm going to continue to try to figure out creating my own though.
 
 *Reflection ~ 02/15*  
-I tried extending the dataset but am currently running into some issues with the files...
+I tried extending the dataset but am currently running into some issues with uploading the dataset onto the notebook.
