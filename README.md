@@ -31,3 +31,6 @@ Some differences between a CNN and a FCNN are that a CNN has multiple different 
 
 *Reflection ~ 02/23*  
 Some advantages of the Rectified Linear activation function are: it is easy to compute, it outputs exactly a 0 or a 1 instead of haivng decimals which would have to be rounded, and it is easy to optimize with its close to linear behavior. One use case for a ReLU is with CNNs. A ReLU function can be used as the the filter, then a pooling layer could be used after that to continue the CNN.
+
+*Reflection ~ 02/25*  
+Some observations I had while changing the loss to regression based functions in the housing model were that the loss descresed by a lot while the mse decreased only a little. Through the graph I also noticed that the original model had a low mse to start with while still ending even lower, and the test and train lines also intersected very early in this graph. However, in the modified version, the test and train lines never overalapped and the mse also started off higher than on the original version.
